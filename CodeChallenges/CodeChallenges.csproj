@@ -6,6 +6,6 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 	<ItemGroup>
-		<InternalsVisibleTo Include="CodeChallenges.Tests"/>
+		<InternalsVisibleTo Include="CodeChallenges.Tests" />
 	</ItemGroup>
 </Project>
